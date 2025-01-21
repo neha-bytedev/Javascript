@@ -26,4 +26,24 @@ const myfunction= function(){
  //console.log(typeof myObj);
  //console.log(typeof myfunction);
  console.log(typeof heros);
+ //+++++++++++++++++++++++++++++++
+ //Stack (Primitive),Heap (Non-Primitive)
+ let myYoutubechannel="neha.saman.com"
+ let anothername= myYoutubechannel
+ anothername="geeksforgeeks"
+ console.log(myYoutubechannel);//original
+ console.log(anothername);//copy value 
+
+ let userOne={
+    email:"user12@google.com",
+    upi:"user@ybl",
+ }
+ 
+  let userTwo=userOne
+  userTwo.email="neha123@gmail.com"
+  console.log(userOne);
+  console.log(userTwo);
+  
+  
+ 
  
