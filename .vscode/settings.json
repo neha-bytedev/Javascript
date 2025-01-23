@@ -1,3 +1,5 @@
 {
-    "editor.multiCursorLimit": 2000
+    "editor.multiCursorLimit": 2000,
+    "editor.renderWhitespace": "none",
+    "editor.cursorStyle": "block"
 }
