@@ -1,13 +1,13 @@
 const accountId = 14457
 let accountEmail= "neha"
 var accountPassword = "12345"
-accountCity="Chandigarh"
+accountCity="Chandigarh" // not prefarable
 let accountState;
 //accountId=2 not allowed
 
 accountEmail="neha18"
 accountPassword="7890"
-accountCity="Patna"
+accountCity="Patna" 
 
 //console.log(accountId);
 /*

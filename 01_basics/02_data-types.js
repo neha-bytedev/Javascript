@@ -1,18 +1,23 @@
-"use strict"; //treat all JS as newer version
+"use strict"; //treat all JS as newer version / not mandatory
 
-//alert(3+3)  we are using node js,not browser
+//alert(3+3)  //we are using node js,not browser
 
 console.log(3+
     3);//readabiltity not high
 console.log("Neha")
-
+let name="Neha"
+let age=20
+let isLoggedIn=true
+//tc39.es // for standard
 /*
 number=> 2 to power 53
 bigint
+boolean=true or false
 string=> ""
-null = standolone value
+null = standalone value
 undefined
 symbol => unique
+
 object
 */
 
